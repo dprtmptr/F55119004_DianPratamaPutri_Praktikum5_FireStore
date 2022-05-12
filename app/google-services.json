@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594363866943",
+    "project_id": "praktikum-6-firestore",
+    "storage_bucket": "praktikum-6-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594363866943:android:b3c98610121bd91e48fd8a",
+        "android_client_info": {
+          "package_name": "com.f55119004.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594363866943-rn0visl2rocsm42a3brfh9e9dksitdc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCixa9J7hziawLlgw68uo4aUPaonaKmqFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594363866943-rn0visl2rocsm42a3brfh9e9dksitdc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
